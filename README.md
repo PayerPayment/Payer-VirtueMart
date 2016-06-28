@@ -8,7 +8,7 @@ For more information about the integration and our payment services, please visi
 
   * [Joomla](https://www.joomla.org): Version 2.5.X
   * [VirtueMart](http://http://virtuemart.net): Version 3.0.X
-  * [Payer Configuration](https://payer.se) Missing the configuration file? Please contact the customer service at kundtjanst@payer.se
+  * [Payer Configuration](https://payer.se) Missing the configuration file? Please contact the [Customer Service](mailto:kundtjanst@payer.se)
 
 ## Configuration
 
@@ -17,3 +17,7 @@ You need to have your `PayReadConf` file available. Replace that file with the p
 ## Environment
 
 You can switch between the `test` and `live` environment in the payment method interface through the `Payment Modules` section in VirtueMart. 
+
+# Support
+
+For questions regarding your payment module integration, please contact the Payer [technican support](mailto:teknik@payer.se). 
