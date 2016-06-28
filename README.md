@@ -2,7 +2,7 @@
 
 This is the payment module to get started with Payers payment services in VirtueMart.
 
-For more information about the integration and our payment services, please visit www.payer.se.
+For more information about our payment services, please visit [www.payer.se](http://www.payer.se).
 
 ## Requirements
 
@@ -18,6 +18,6 @@ You need to have your `PayReadConf` file available. Replace that file with the p
 
 You can switch between the `test` and `live` environment in the payment method interface through the `Payment Modules` section in VirtueMart. 
 
-# Support
+## Support
 
 For questions regarding your payment module integration, please contact the Payer [technican support](mailto:teknik@payer.se). 
