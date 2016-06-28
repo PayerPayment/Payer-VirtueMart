@@ -16,4 +16,4 @@ You need to have your `PayReadConf` file available. Replace that file with the p
 
 ## Environment
 
-You can switch between the `test enviroment` and `live environment` in the payment method interface through the `Payment Modules` section in VirtueMart. 
+You can switch between the `test` and `live` environment in the payment method interface through the `Payment Modules` section in VirtueMart. 
