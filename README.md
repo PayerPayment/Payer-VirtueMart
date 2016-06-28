@@ -10,6 +10,10 @@ For more information about the integration and our payment services, please visi
   * [VirtueMart](http://http://virtuemart.net): Version 3.0.X
   * [Payer Configuration](https://payer.se) Missing the configuration file? Please contact the customer service at kundtjanst@payer.se
 
+## Configuration
+
+You need to have your `PayReadConf` file available. Replace that file with the placeholder in the `payer` folder.
+
 ## Environment
 
 You can switch between the `test enviroment` and `live environment` in the payment method interface through the `Payment Modules` section in VirtueMart. 
