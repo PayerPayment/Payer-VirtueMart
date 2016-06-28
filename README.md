@@ -8,7 +8,7 @@ For more information about our payment services, please visit [www.payer.se](htt
 
   * [Joomla](https://www.joomla.org): Version 2.5.X
   * [VirtueMart](http://http://virtuemart.net): Version 3.0.X
-  * [Payer Configuration](https://payer.se) Missing the configuration file? Contact the [Customer Service](mailto:kundtjanst@payer.se).
+  * [Payer Configuration](https://payer.se) - Missing the configuration file? Contact the [Customer Service](mailto:kundtjanst@payer.se).
 
 ## Configuration
 
