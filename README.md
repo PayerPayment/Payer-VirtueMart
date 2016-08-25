@@ -8,15 +8,16 @@ For more information about our payment services, please visit [www.payer.se](htt
 
   * [Joomla](https://www.joomla.org): Version 2.5.X
   * [VirtueMart](http://http://virtuemart.net): Version 3.0.X
-  * [Payer Configuration](https://payer.se) - Missing the configuration file? Contact the [Customer Service](mailto:kundtjanst@payer.se).
+  * [Payer Credentials](https://payer.se) - Missing credentials? Contact the [Customer Service](mailto:kundtjanst@payer.se).
 
-## Configuration
+## Quickstart
 
-You need to have your `PayReadConf` file available. Replace that file with the placeholder in the `payer` folder.
-
-## Environment
-
-You can switch between the `test` and `live` environment in the payment method interface through the `Payment Modules` section in VirtueMart. 
+  * Copy the folders of the plugins that you want to use into the `plugins` directory.
+  * Activate the plugin.
+  * Configure each module with your Payer Credentials through the plugin view in the Virtuemart Administration.
+  * Enable the payment method through the plugin view.
+  * Make sure that `test mode` is turned off when in production.
+  * You are live!
 
 ## Support
 
