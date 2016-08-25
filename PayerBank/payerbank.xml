@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<extension version="2.5" type="plugin" group="vmpayment">
+	<name>Payer - Internet Bank Payment</name>
+	<creationDate>Mar 2015</creationDate>
+	<author>Payer Financial Services AB</author>
+	<authorUrl>http://www.payer.se</authorUrl>
+	<version>3.0.6.2</version>
+	<description>Payer bank method</description>
+	<files>
+		<filename plugin="payerbank">payerbank.php</filename>
+		<folder>language</folder>
+		<folder>payer</folder>
+	</files>
+	<vmconfig>
+		<fields name="params">
+			<fieldset name="fields" addfieldpath="/administrator/components/com_virtuemart/fields">
+				<field name="agentid" type="text" label="VMPAYMENT_PAYERBANK_AGENTID" description=""/>
+				<field name="key1" type="text" label="VMPAYMENT_PAYERBANK_KEY1" description=""/>
+				<field name="key2" type="text" label="VMPAYMENT_PAYERBANK_KEY2" description=""/>
+				<field name="testmode" type="list" label="VMPAYMENT_PAYERBANK_TESTMODE" description="">
+                    <option value="0">VMPAYMENT_PAYERBANK_No</option>
+                    <option value="1">VMPAYMENT_PAYERBANK_YES</option>
+                </field>
+			</fieldset>
+		</fields>
+	</vmconfig>
+</extension>
